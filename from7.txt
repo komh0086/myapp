@@ -1,2 +1,0 @@
-from7.txt
-asdfasdf
